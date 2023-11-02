@@ -1,0 +1,46 @@
+*{
+    background-color: rgba(0, 0, 0, 0.311);
+}
+#h12{
+    display: flex;
+    justify-content: center;
+    color: rgba(43, 226, 192, 0.616);
+}
+
+.input12{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    color: white;
+}
+
+.input1{
+    margin: 3px;
+    color: white;
+    padding: 4px;
+    width: 200px;
+}
+
+.input2{
+    margin: 3px;
+    color: white;
+    padding: 4px;
+}
+
+.button{
+    margin: 4px;
+    color: white;
+    padding: 4px;
+}
+
+.task{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.082);
+    /* height: 200px; */
+}
+
+#taskList{
+    width: 200px;
+}
